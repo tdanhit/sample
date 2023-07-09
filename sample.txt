@@ -2,3 +2,4 @@ Test commit sample
 add by main branch
 
 add by feature 2
+add by feature 2 - 2
