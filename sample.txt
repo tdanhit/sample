@@ -2,8 +2,5 @@ Test commit sample
 add by main branch
 
 add by feature 1
-<<<<<<< HEAD
-=======
 
 add by feature 1 - commit 2
->>>>>>> 3ff6b02 (commit 2)
